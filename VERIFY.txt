@@ -1,0 +1,5 @@
+Nook 1.1.0
+Compiled without errors or warnings.
+20 core checks passed.
+Windows runtime visual and startup verification pending.
+SHA-256 dist/Nook.exe: 94f60fa80a69f924e6d4682816602a2ded3cc1d4ecb6cb4a41ab630b45d2730b
